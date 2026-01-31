@@ -1,5 +1,21 @@
-## Hi there 👋
+# Nicholas Xue
 
+Backend / Full-stack Developer
+Rust · Neovim · CLI · OSS
+
+> Minimal tools. Maximum leverage.
+
+---
+
+### ⏱️ Coding (7d)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📈 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+_Last updated automatically._
 <!--
 **nicholasxjy/nicholasxjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
