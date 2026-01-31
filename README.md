@@ -1,21 +1,22 @@
 # Nicholas Xue
 
-Backend / Full-stack Developer
-Rust · Neovim · CLI · OSS
+Full-stack Developer
+Rust · Go · Neovim · Frontend · CLI · OSS
 
-> Minimal tools. Maximum leverage.
+> 間違っているのは私じゃなくて、この世界だ
 
 ---
 
-### ⏱️ Coding (7d)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Stats](./profile/stats.svg)
 
-### 📈 Recent Activity
+![Top Languages](./profile/top-langs.svg)
+
+
+
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-_Last updated automatically._
 <!--
 **nicholasxjy/nicholasxjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
